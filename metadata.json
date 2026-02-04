@@ -1,0 +1,5 @@
+{
+  "name": "AI Highlight Info Card",
+  "description": "A simulation of a Chrome Extension that provides AI-powered insights, summaries, and context for highlighted text on a webpage using the Gemini API.",
+  "requestFramePermissions": []
+}
